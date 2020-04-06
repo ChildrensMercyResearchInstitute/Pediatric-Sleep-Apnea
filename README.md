@@ -4,7 +4,7 @@
 
 * Obstructive-Sleep-Apnea-Comorbidity-Base-Comparison.xlsx [919 data rows]
 
-* NonObstructive-Sleep-Apnea-Comorbidity-Base-Comparison.xlsx [484 data rows]]
+* NonObstructive-Sleep-Apnea-Comorbidity-Base-Comparison.xlsx [484 data rows]
 
 * Other-Sleep-Apnea-Comorbidity-Base-Comparison.xlsx [534 data rows]
 
