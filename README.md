@@ -1,4 +1,4 @@
-# Placeholder for Pediatric Sleep Apnea paper
+# Placeholder for Pediatric Sleep Apnea paper supplement
 
 **Excel Files**
 
