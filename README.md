@@ -1,16 +1,16 @@
 # Placeholder for Pediatric Sleep Apnea paper supplement
 
-**Excel Files**
+**Supplement Tables** (Excel Files)
 
-* Obstructive-Sleep-Apnea-Comorbidity-Base-Comparison.xlsx [919 data rows]
+* **Table 1**. Obstructive-Sleep-Apnea-Comorbidity-Base-Comparison.xlsx [919 data rows]
 
-* NonObstructive-Sleep-Apnea-Comorbidity-Base-Comparison.xlsx [484 data rows]
+* **Table 2**. NonObstructive-Sleep-Apnea-Comorbidity-Base-Comparison.xlsx [484 data rows]
 
-* Other-Sleep-Apnea-Comorbidity-Base-Comparison.xlsx [534 data rows]
+* **Table 3**. Other-Sleep-Apnea-Comorbidity-Base-Comparison.xlsx [534 data rows]
 
 ## Filtering
 
-These files are filtered to show phenotype comorbidities with Prevalence Ratio >= 10 and Cohort Patients >= 20. Excel can be used to explore other filtering.
+These files are filtered to show phenotype comorbidities with Prevalence Ratio >= 10 and Cohort Patients >= 20 to be supplement tables 1-3. Excel can be used to explore other filtering.
 
 ![Obstructive Sleep Apnea - Filtered Comorbidities](Obstructive-Filtered-Hidden.PNG)
 . . .
