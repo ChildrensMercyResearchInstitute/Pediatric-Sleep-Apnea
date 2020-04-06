@@ -15,7 +15,6 @@ These files are filtered to show phenotype comorbidities with Prevalence Ratio >
 ![Obstructive Sleep Apnea - Filtered Comorbidities](Obstructive-Filtered-Hidden.PNG)
 . . .
 
-In Excel select *Data* | *Filter* to remove filters.
 
 ## No Filters
 
@@ -32,7 +31,7 @@ Excel hidden columns used to explore prevalence comparisons:
 * Prevalence Rank Shift
 * Log2 Prevalene Ratio
 
-In Excel select whole table | right click on spreadsheet header row | Select **Unhide** to view all columns.
+In Excel:  Select whole table | Rght click on spreadsheet header row | Select **Unhide** to view all columns.
 
 ![Obstructive Sleep Apnea -- All Comorbidities](Obstructive-NoFilters-NoHiding.PNG)
 . . .
