@@ -20,8 +20,6 @@ In Excel select *Data* | *Filter* to remove filters.
 
 In Excel select *Data* | *Filter* to remove filters. The data will appear in descending cohort prevalence order (ascending prevalene rank order).
 
-![Obstructive Sleep Apnea -- All Comorbidities](Obstructive-NoFilters-NoHiding.PNG)
-
 This version of the files was used to create Tables 4-6 in the paper.
 
 ## Hidden Columns
@@ -34,5 +32,7 @@ Excel hidden columns used to explore prevalence comparisons:
 * Log2 Prevalene Ratio
 
 In Excel select whole table | right click on spreadsheet header row | Select **Unhide** to view all columns.
+
+![Obstructive Sleep Apnea -- All Comorbidities](Obstructive-NoFilters-NoHiding.PNG)
 
 **Note**:  While three digits are shown after decimal point in prevalences, not all digits may be significant. This is a practical compromise to avoid using scientific notation in only some cells to show proper significant digits.
