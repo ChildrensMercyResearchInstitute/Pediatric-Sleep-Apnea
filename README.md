@@ -19,7 +19,7 @@ In Excel select *Data* | *Filter* to remove filters.
 
 ## No Filters
 
-In Excel select *Data* | *Filter* to remove filters. The data will appear in descending cohort prevalence order (ascending prevalene rank order).
+In Excel select *Data* | *Filter* to remove filters. The data will appear in descending cohort prevalence order (ascending prevalence rank order).
 
 This version of the files was used to create Tables 4-6 in the paper.
 
